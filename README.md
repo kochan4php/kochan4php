@@ -1,7 +1,7 @@
 <h1 align="center" style="font-family: 'Lexend Deca';">Hai 👋, Selamat datang di Profileku</h1>
 <p align="center">
   <a href="https://github.com/aphrodeosubarno">
-    <img align="center" src="./kon.jpg" />
+    <img align="center" src="https://user-images.githubusercontent.com/69864986/156953732-bd7c46db-e4ee-40fd-9321-23cb5d0764ef.jpg" />
   </a>
 </p>
 
