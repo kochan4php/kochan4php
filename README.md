@@ -13,10 +13,3 @@
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphrodeosubarno&theme=radical&layout=compact" />
 </p>
-
-<br>
-
-<h1 align="center">Stats</h1>
-<br>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aphrodeosubarno&show_icons=true&theme=radical" align="center" /></p>  
