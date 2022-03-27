@@ -7,7 +7,7 @@
 
 <br/>  
 
-<h1 align="center">Stats</h1>
+<h1 align="center">My Stats</h1>
 <br>
 
 <p align="center">
