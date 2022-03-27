@@ -7,17 +7,11 @@
 
 <br/>  
 
-<h1 align="center">Programming Language</h1>
-<br>
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphrodeosubarno&theme=radical&layout=compact" />
-</p>
-
-<br>
 <h1 align="center">Stats</h1>
 <br>
 
 <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphrodeosubarno&theme=radical" />
+    &nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=aphrodeosubarno&theme=radical&show_icons=true" />
 </p>
