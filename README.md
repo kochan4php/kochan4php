@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning NodeJS & Ruby on Rails
 - ⚡ Fun fact: Anime Lovers & Backend Development Enthusiast
 
-<img src="https://github-readme-stats.vercel.app/api?username=aphrodeosubarno&theme=radical&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphrodeosubarno&theme=radical&layout=compact" height="196px" />
+<img src="https://github-readme-stats.vercel.app/api?username=aphrodeosubarno&theme=radical&show_icons=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphrodeosubarno&theme=radical&layout=compact" height="196px" />
 
 Find Me:
 
