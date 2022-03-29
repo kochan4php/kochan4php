@@ -12,6 +12,7 @@
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphrodeosubarno&theme=radical&layout=compact" height="196px" />
-    &nbsp;
+    <br/>
+    <br/>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=aphrodeosubarno&theme=radical&show_icons=true" />
 </p>
