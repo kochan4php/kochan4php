@@ -2,7 +2,9 @@
 
 ## Hai 👋, Selamat datang di Profileku
 
-- 🌱 I’m currently learning NodeJS, Ruby on Rails, PHP & Laravel
+- 💬 Ask me about Ruby
+- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning NodeJS, Ruby on Rails, Laravel
 - ⚡ Fun fact: Anime Lovers & Backend Development Enthusiast
 
 <img src="https://github-readme-stats.vercel.app/api?username=aphrodeosubarno&theme=radical&show_icons=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphrodeosubarno&theme=radical&layout=compact" height="196px" />
