@@ -4,14 +4,14 @@
 
 - 💬 Ask me about Ruby
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning NodeJS, Ruby on Rails, Laravel
-- ⚡ Fun fact: Anime Lovers & Fullstack Development Enthusiast
+- 🌱 I’m currently learning Ruby on Rails & Laravel
+- ⚡ Fun fact: Anime Lovers & Backend Development Enthusiast
 
-### Github Stats
+## Github Stats 😁👆
 
 <a href="https://github.com/aphrodeosubarno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aphrodeosubarno&theme=radical&show_icons=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=aphrodeosubarno&theme=radical&show_icons=true" />
 </a>
 <a href="https://github.com/aphrodeosubarno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphrodeosubarno&theme=radical&layout=compact" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphrodeosubarno&theme=radical&layout=compact" />
 </a>
