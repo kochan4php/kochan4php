@@ -10,8 +10,8 @@
 ## Github Stats 😁👆
 
 <a href="https://github.com/aphrodeosubarno">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=aphrodeosubarno&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aphrodeosubarno&theme=radical&show_icons=true" />
 </a>
 <a href="https://github.com/aphrodeosubarno">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphrodeosubarno&theme=radical&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphrodeosubarno&theme=radical&layout=compact" />
 </a>
