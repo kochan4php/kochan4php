@@ -5,7 +5,7 @@
 - 💬 Ask me about Ruby or PHP
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning Ruby on Rails & Laravel
-- ⚡ Fun fact: Anime Lovers & Backend Development Enthusiast
+- ⚡ Fun fact: Anime Lovers & Backend Enthusiast
 
 ## Main Skills
 
@@ -20,9 +20,6 @@
 
 ## Github Stats 😁👆
 
-<a href="https://github.com/aphrodeosubarno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aphrodeosubarno&theme=radical&show_icons=true" />
-</a>
 <a href="https://github.com/aphrodeosubarno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphrodeosubarno&theme=radical&layout=compact" />
 </a>
