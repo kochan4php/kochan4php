@@ -23,6 +23,3 @@
 <a href="https://github.com/aphrodeosubarno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousakachan&theme=radical&layout=compact" />
 </a>
-
-## Quote of the day
-> Tetap mencari error walaupun tugas sekolah menerror -pov2k22
