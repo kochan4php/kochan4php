@@ -5,7 +5,7 @@
 - 💬 Ask me about Ruby or PHP
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning Ruby on Rails & Laravel
-- ⚡ Fun fact: Anime Lovers & Fullstack Enthusiast
+- ⚡ Fun fact: Anime Lovers & React Frontend Enthusiast
 
 ## Main Skills
 
