@@ -2,10 +2,10 @@
 
 ## Hai 👋, Selamat datang di Profileku
 
-- 💬 Ask me about Ruby or PHP
+- 💬 Ask me about PHP
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning Ruby on Rails & Laravel
-- ⚡ Fun fact: Anime Lovers & MERN (MySQL, Express.js, React.js, Node.js) / Laravel Enthusiast
+- 🌱 I’m currently learning Ruby & Laravel
+- ⚡ Fun fact: Anime Lovers & Laravel Enthusiast
 
 ## Main Skills
 
