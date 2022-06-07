@@ -1,4 +1,5 @@
-![Alt Text](https://user-images.githubusercontent.com/69864986/160632746-f60ebe1d-1d4f-4cee-b066-39892799eec8.gif)
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/69864986/172466707-5c28920f-6679-47bd-81cc-87a3a66ba2f4.gif">
+
 
 ## Hai 👋, Selamat datang di Profileku
 
