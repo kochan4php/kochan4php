@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="https://user-images.githubusercontent.com/69864986/172466707-5c28920f-6679-47bd-81cc-87a3a66ba2f4.gif">
+<img align="center" src="https://user-images.githubusercontent.com/69864986/172466707-5c28920f-6679-47bd-81cc-87a3a66ba2f4.gif">
 
 
 ## Hai 👋, Selamat datang di Profileku
