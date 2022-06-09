@@ -16,4 +16,5 @@
 
 <a href="https://github.com/kochan4php">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kochan4php&theme=radical&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kochan4php&theme=radical" />
 </a>
