@@ -5,7 +5,7 @@
 
 - 💬 Ask me about Tailwind CSS
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning Ruby Programming & Laravel PHP Framework
+- 🌱 I’m currently learning Ruby Programming & Laravel Framework
 - ⚡ Fun fact: Anime Lovers & Laravel Enthusiast
 
 ## Main Skills
