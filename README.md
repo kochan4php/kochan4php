@@ -4,15 +4,15 @@
 
 ## Hai 👋, Selamat datang di Profileku
 
-```js
-const myself = {
-  name: 'Deo Subarno',
-  nickname: 'Kochan',
-  pronouns: 'He/Him',
-  skills: ['HTML5', 'CSS3', 'JS', 'PHP', 'React.js', 'Next.js', 'Laravel', 'TailwindCSS', 'Bootstrap'],
-  architecture: ['Monolithic', 'Microservice'],
-  funfact: 'Otaku Programmer'
-};
+```rb
+myself = {
+  :name => 'Deo Subarno',
+  :nickname => 'Kochan',
+  :pronouns => 'He/Him',
+  :skills => ['HTML5', 'CSS3', 'JS', 'Ruby', 'PHP', 'React.js', 'Next.js', 'Laravel', 'TailwindCSS', 'Bootstrap'],
+  :architecture => ['Monolithic', 'Microservice'],
+  :funfact => 'Otaku Programmer'
+}
 
-console.log(myself);
+puts myself[:skills]
 ```
