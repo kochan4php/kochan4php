@@ -11,7 +11,7 @@ myself = {
   :pronouns => 'He/Him',
   :skills => ['HTML5', 'CSS3', 'JS', 'Ruby', 'PHP', 'React.js', 'Next.js', 'Laravel', 'TailwindCSS', 'Bootstrap'],
   :architecture => ['Monolithic', 'Microservice'],
-  :funfact => 'Otaku Programmer'
+  :funfact => 'Otaku Programmer 😅'
 }
 
 puts myself[:skills]
