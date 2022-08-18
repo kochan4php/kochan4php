@@ -17,7 +17,6 @@ myself = {
 puts myself[:skills]
 ```
 
-## Github Stats 😁👆
 <details> <summary>Github Stats</summary>
 
 <div>
