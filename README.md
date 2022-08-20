@@ -4,17 +4,17 @@
 
 ## Hai 👋, Selamat datang di Profileku
 
-```rb
-myself = {
-  :name => 'Deo Subarno',
-  :nickname => 'Kochan',
-  :pronouns => 'He/Him',
-  :skills => ['HTML5', 'CSS3', 'JS', 'Ruby', 'PHP', 'React.js', 'Next.js', 'Laravel', 'TailwindCSS', 'Bootstrap'],
-  :architecture => ['Monolithic', 'Microservice'],
-  :funfact => 'Otaku Programmer 😅'
-}
+```php
+$myself = [
+  'name' => 'Deo Subarno',
+  'nickname' => 'Kochan',
+  'pronouns' => 'He/Him',
+  'skills' => ['HTML5', 'CSS3', 'JS', 'Ruby', 'PHP', 'React.js', 'Next.js', 'Laravel', 'TailwindCSS', 'Bootstrap'],
+  'architecture' => ['Monolithic', 'Microservice'],
+  'funfact' => 'Otaku Programmer 😅'
+];
 
-puts myself[:skills]
+echo $myself['funfact'];
 ```
 
 <details> <summary>Github Stats</summary>
