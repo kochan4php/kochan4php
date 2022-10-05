@@ -9,7 +9,7 @@ $myself = [
   'name' => 'Deo Subarno',
   'nickname' => 'Kochan',
   'pronouns' => 'He/Him',
-  'skills' => ['HTML5', 'CSS3', 'JS', 'Ruby', 'PHP', 'React.js', 'Next.js', 'Laravel', 'TailwindCSS', 'Bootstrap'],
+  'skills' => ['HTML5', 'CSS3', 'JS', 'Ruby', 'PHP', 'React.js', 'Next.js', 'Laravel', 'TailwindCSS', 'Bootstrap', 'Material UI'],
   'architecture' => ['Monolithic', 'Microservice'],
   'funfact' => 'Otaku Programmer 😅'
 ];
