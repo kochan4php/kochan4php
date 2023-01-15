@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69864986/211694326-4f21adec-2164-46aa-a08d-85baf6873509.gif">
+  <img src="https://user-images.githubusercontent.com/69864986/212568928-10d27de9-15da-4837-b916-3428bb17adb0.gif" width="800">
 </p>
 
 ## Hai 👋, Selamat datang di Profileku
