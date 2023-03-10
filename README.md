@@ -11,9 +11,6 @@ $myself = [
   'pronouns' => 'He/Him',
   'skills' => ['HTML5', 'CSS3', 'JS', 'PHP', 'React.js', 'Next.js', 'Laravel', 'TailwindCSS', 'Bootstrap'],
   'architecture' => ['Monolithic', 'Microservice'],
-  'funfact' => 'Otaku Programmer 😅',
-  'OS' => 'Manjaro Linux'
+  'funfact' => 'Otaku Programmer 😅'
 ];
-
-echo $myself['OS'];
 ```
