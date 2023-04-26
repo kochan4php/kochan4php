@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69864986/212568928-10d27de9-15da-4837-b916-3428bb17adb0.gif" width="650">
+  <img src="https://user-images.githubusercontent.com/69864986/234621338-f3d1f7d4-9cfe-44c3-8dd1-405a39a882b7.jpg" width="100%">
 </p>
 
 ### Hai 👋, Selamat datang di Profileku
@@ -14,4 +14,3 @@ $myself = [
   'funfact' => 'Otaku Programmer 😅'
 ];
 ```
-tes
