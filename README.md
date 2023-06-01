@@ -4,13 +4,24 @@
 
 ### Hai 👋, Selamat datang di Profileku
 
-```php
-$myself = [
-  'name' => 'Deo Subarno',
-  'nickname' => 'Kochan',
-  'pronouns' => 'He/Him',
-  'skills' => ['HTML5', 'CSS3', 'JS', 'PHP', 'React.js', 'Next.js', 'Laravel', 'TailwindCSS', 'Bootstrap'],
-  'architecture' => ['Monolithic', 'Microservice'],
-  'funfact' => 'Otaku Programmer 😅'
-];
+```ts
+type MySelf = {
+  name: string,
+  nickname: string,
+  pronouns: string,
+  skills: string[],
+  architecture: string[],
+  funfact: string
+}
+
+const myself: MySelf = {
+  name: 'Deo Subarno',
+  nickname: 'Kochan',
+  pronouns: 'He/Him',
+  skills: ['HTML5', 'CSS3', 'JS', 'TS', 'PHP', 'React.js', 'Node.js', 'Laravel', 'TailwindCSS', 'Bootstrap'],
+  architecture: ['Monolithic', 'Microservice'],
+  funfact: 'Otaku Programmer 😅'
+}
+
+console.log(myself.funfact)
 ```
