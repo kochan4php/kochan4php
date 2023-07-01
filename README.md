@@ -6,22 +6,36 @@
 
 ```ts
 type MySelf = {
-  name: string,
-  nickname: string,
-  pronouns: string,
-  skills: string[],
-  architecture: string[],
-  funfact: string
-}
+    name: string;
+    nickname: string;
+    pronouns: string;
+    skills: string[];
+    architecture: string[];
+    funfact: string;
+};
 
 const myself: MySelf = {
-  name: 'Deo Subarno',
-  nickname: 'Kochan',
-  pronouns: 'He/Him',
-  skills: ['HTML5', 'CSS3', 'JS', 'TS', 'PHP', 'Ruby', 'React.js', 'Node.js', 'Laravel', 'TailwindCSS', 'Bootstrap'],
-  architecture: ['Monolithic', 'Microservice'],
-  funfact: 'Otaku Programmer 😅'
-}
+    name: "Deo Subarno",
+    nickname: "Kochan",
+    pronouns: "He/Him",
+    skills: [
+        "HTML5",
+        "CSS3",
+        "JS",
+        "TS",
+        "PHP",
+        "Ruby",
+        "React.js",
+        "Node.js",
+        "Next.js",
+        "Laravel",
+        "Ruby on Rails",
+        "TailwindCSS",
+        "Bootstrap",
+    ],
+    architecture: ["Monolithic", "Microservice"],
+    funfact: "Otaku Programmer 😅",
+};
 
-console.log(myself.funfact)
+console.log(myself.funfact);
 ```
