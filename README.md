@@ -1,8 +1,10 @@
+<h2 align="center">
+  Hai 👋, Selamat datang di Profileku
+</h2>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69864986/234621338-f3d1f7d4-9cfe-44c3-8dd1-405a39a882b7.jpg" width="100%">
 </p>
-
-### Hai 👋, Selamat datang di Profileku
 
 ```ts
 interface MySelf {
@@ -10,7 +12,6 @@ interface MySelf {
     nickname: string;
     pronouns: string;
     skills: string[];
-    architecture: string[];
     funfact: string;
 }
 
@@ -19,7 +20,6 @@ const myself: MySelf = {
     nickname: "Kochan",
     pronouns: "He/Him",
     skills: ["JavaScript", "TypeScript", "PHP", "Ruby", "MERN Stack", "Next.js", "Nest.js", "Laravel", "Docker", "MySQL"],
-    architecture: ["Monolithic", "Microservice"],
     funfact: "Otaku Programmer 😅",
 };
 
