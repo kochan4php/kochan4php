@@ -19,8 +19,6 @@ const myself: MySelf = {
     nickname: "Kochan",
     pronouns: "He/Him",
     skills: [
-        "HTML5",
-        "CSS3",
         "JavaScript",
         "TypeScript",
         "PHP",
@@ -33,8 +31,6 @@ const myself: MySelf = {
         "Docker",
         "MySQL",
         "MongoDB",
-        "TailwindCSS",
-        "Bootstrap",
     ],
     architecture: ["Monolithic", "Microservice"],
     funfact: "Otaku Programmer 😅",
