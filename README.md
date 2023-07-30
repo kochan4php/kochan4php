@@ -12,6 +12,7 @@ interface MySelf {
     nickname: string;
     pronouns: string;
     skills: string[];
+    role: string;
     funfact: string;
 }
 
@@ -20,6 +21,7 @@ const myself: MySelf = {
     nickname: "Kochan",
     pronouns: "He/Him",
     skills: ["JS", "TS", "PHP", "Ruby", "MERN Stack", "Next.js", "Nest.js", "Laravel", "Docker", "MySQL"],
+    role: "Backend Developer"
     funfact: "Otaku Programmer 😅",
 };
 
