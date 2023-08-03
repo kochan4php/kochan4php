@@ -13,7 +13,6 @@ interface MySelf {
     pronouns: string;
     skills: string[];
     role: string;
-    funfact: string;
 }
 
 const myself: MySelf = {
@@ -22,8 +21,5 @@ const myself: MySelf = {
     pronouns: "He/Him",
     skills: ["JS", "TS", "PHP", "Ruby", "MERN Stack", "Next.js", "Nest.js", "Laravel", "Docker", "MySQL"],
     role: "Backend Developer",
-    funfact: "Otaku Programmer 😅",
 };
-
-console.log(myself.funfact);
 ```
