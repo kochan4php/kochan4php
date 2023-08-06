@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69864986/234621338-f3d1f7d4-9cfe-44c3-8dd1-405a39a882b7.jpg" width="100%">
+  <img src="https://github.com/kochan4php/kochan4php/assets/69864986/c3477541-9d87-4a16-a4aa-f671d4269138" width="100%">
 </p>
 
 ```ts
