@@ -19,7 +19,20 @@ const myself: MySelf = {
     name: "Deo Subarno",
     nickname: "Kochan",
     pronouns: "He/Him",
-    skills: ["JS", "TS", "PHP", "Ruby", "MERN Stack", "Next.js", "Nest.js", "Laravel", "Docker", "MySQL"],
+    skills: [
+      "JS", 
+      "TS", 
+      "PHP", 
+      "Ruby", 
+      "MERN Stack", 
+      "Next.js", 
+      "Nest.js", 
+      "Laravel", 
+      "Docker", 
+      "MySQL"
+    ],
     role: "Backend Developer",
 };
+
+console.log(myself.nickname)
 ```
