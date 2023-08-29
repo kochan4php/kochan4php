@@ -2,9 +2,9 @@
   Hai 👋, Selamat datang di Profileku
 </h2>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/kochan4php/kochan4php/assets/69864986/c3477541-9d87-4a16-a4aa-f671d4269138" width="100%">
-</p>
+</p> -->
 
 ```ts
 interface MySelf {
