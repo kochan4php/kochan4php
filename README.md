@@ -19,19 +19,8 @@ const myself: MySelf = {
     name: "Deo Subarno",
     nickname: "Kochan",
     pronouns: "He/Him",
-    skills: [
-      "JS", 
-      "TS", 
-      "PHP", 
-      "Ruby", 
-      "MERN Stack", 
-      "Next.js", 
-      "Nest.js", 
-      "Laravel", 
-      "Docker", 
-      "MySQL"
-    ],
-    role: "Backend Developer",
+    skills: ["JS", "TS", "PHP", "Ruby", "MERN Stack", "Next.js", "Nest.js", "Laravel", "Docker", "MySQL"],
+    role: "Junior Backend Engineer",
 };
 
 console.log(myself.nickname)
