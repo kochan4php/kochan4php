@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hai 👋, Selamat datang di Profileku
+  Hai 👋! Selamat datang di Profileku
 </h2>
 <!-- <p align="center">
   <img src="https://github.com/kochan4php/kochan4php/assets/69864986/c3477541-9d87-4a16-a4aa-f671d4269138" width="100%">
