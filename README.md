@@ -1,3 +1,5 @@
+<img src="https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg" width="100%">
+
 <h2 align="center">
   Hai 👋! Selamat datang di Profileku
 </h2>
