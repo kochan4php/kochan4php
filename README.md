@@ -14,10 +14,10 @@ my_self = {
     pronouns: "He/Him",
     skils: ["JS", "TS", "PHP", "Ruby", "MERN Stack", "Next.js", "Nest.js", "Laravel", "Docker", "MySQL"],
     role: "Backend Engineer",
-    say_hello: lambda { puts "Hello, my name is #{my_self[:name]}. You can call me #{my_self[:nickname]}" }
+    say_hello: -> { "Hello, my name is #{my_self[:name]}. You can call me #{my_self[:nickname]}" }
 }
 
-my_self[:say_hello].call()
+puts my_self[:say_hello].call()
 ```
 
 <h2 align="center">
