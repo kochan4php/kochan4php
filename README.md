@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/f533c753-b479-41c4-b12a-26742f315afa.svg)](https://wakatime.com/@f533c753-b479-41c4-b12a-26742f315afa)
+
 <img src="https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg" width="100%">
 
 <h2 align="center">
