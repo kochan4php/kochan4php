@@ -1,5 +1,3 @@
-<img src="https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg" width="100%">
-
 <h2 align="center">
   Hi 👋! Welcome to my profile
 </h2>
@@ -17,8 +15,4 @@ my_self = {
 puts my_self[:say_hello].call
 ```
 
-<h2 align="center">
-  📈 Stats
-</h2>
-
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=kochan4php&screen_effect=false&theme=monica&include_all_commits=true&pixelate_avatar=false" width="100%">
+<img src="https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg" width="100%">
