@@ -8,7 +8,7 @@ my_self = {
     nickname: "Kochan",
     pronouns: "He/Him",
     skills: ["C#", "Java", "Ruby", "JavaScript", "Docker", "MySQL"],
-    role: "Backend Engineer",
+    role: "Software Developer",
     say_hello: -> () { "Hello, my name is #{my_self[:name]}. You can call me #{my_self[:nickname]}" }
 }
 
